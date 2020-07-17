@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+finance
+*.deb*
+my_tfhub_cache
